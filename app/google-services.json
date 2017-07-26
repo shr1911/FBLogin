@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "210064864156",
+    "project_id": "fblogin-4b82f"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210064864156:android:b50fd7d103d95771",
+        "android_client_info": {
+          "package_name": "com.examplefb.fblogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210064864156-81e3v5hfv1mh67h25s2gsm3fa2tlqiek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.examplefb.fblogin",
+            "certificate_hash": "571f138409f036eb4833fb3eaa340f05a6e7f1d6"
+          }
+        },
+        {
+          "client_id": "210064864156-53e8fdkt7rqpv724itkfre2jv97ftg18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ShEu-Qnes4ZLReodtG7wcTnRlyh9xe4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
